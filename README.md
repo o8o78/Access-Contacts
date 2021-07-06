@@ -1,0 +1,2 @@
+# Access-Contacts
+使用ContentProvider的ContentResolver方法读取系统联系人列表。
